@@ -1,5 +1,5 @@
-# Pearl Harbor Tough Challenge
-## Columbus, OH 12/06/2019
+# Pearl Harbor Tough
+## Columbus, OH - 12/06/2019
 ## Start point - [Park of Roses](https://www.google.com/maps/place/40%C2%B002'36.4%22N+83%C2%B001'41.6%22W/@40.043443,-83.0287802,172m/data=!3m2!1e3!4b1!4m6!3m5!1s0x0:0x0!7e2!8m2!3d40.0434433!4d-83.0282329)
 
 ## Admin
@@ -16,7 +16,7 @@
 
 ## Welcome Party
 * pushups
-* shoulder roations (side, above head, front)
+* shoulder rotations (side, above head, front)
 * jumping jacks
 * bear crawl
 * crab walk
