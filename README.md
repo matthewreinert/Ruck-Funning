@@ -1,4 +1,4 @@
-# rucking
+# Ruck Funning
 
 ## Events
 * [09/07/2019 - 9/11 Memorial - Light - Shanksville, PA](2019/09/911-Memorial.md)
